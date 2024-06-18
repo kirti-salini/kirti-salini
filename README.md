@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/kirti-salini-beuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirti-salini-beuria" height="30" width="40" /></a>
 <a href="https://instagram.com/kirti_salini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirti_salini" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kirtisalini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kirtisalini" height="30" width="40" /></a>
-</p><br>
+</p>
 
 ## Languages and Tools:
 <p align="left">
