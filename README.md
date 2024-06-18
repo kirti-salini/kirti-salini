@@ -32,35 +32,38 @@
   - Bachelor of Computer Applications; GPA: 8.84
   - July 2019 - July 2022
 
-<!-- Technical Skills with UI -->
+<!-- Technical Skills with Icons -->
+
 ## Technical Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-orange" />
-  <img src="https://img.shields.io/badge/Python-Advanced-blue" />
-  <img src="https://img.shields.io/badge/ORACLE%20PL%2FSQL-Advanced-red" />
-  <br />
-  <img src="https://img.shields.io/badge/numpy-Proficient-yellow" />
-  <img src="https://img.shields.io/badge/pandas-Proficient-yellow" />
-  <br />
-  <img src="https://img.shields.io/badge/HTML5-Expert-orange" />
-  <img src="https://img.shields.io/badge/CSS-Expert-orange" />
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-blue" />
-  <img src="https://img.shields.io/badge/React%20JS-Advanced-blue" />
-  <img src="https://img.shields.io/badge/Bootstrap-Advanced-blue" />
-  <br />
-  <img src="https://img.shields.io/badge/Node.js-Advanced-blue" />
-  <img src="https://img.shields.io/badge/Express-Advanced-blue" />
-  <img src="https://img.shields.io/badge/EJS-Proficient-yellow" />
-  <img src="https://img.shields.io/badge/REST-Proficient-yellow" />
-  <img src="https://img.shields.io/badge/MongoDB-Proficient-yellow" />
-  <img src="https://img.shields.io/badge/SQL-Proficient-yellow" />
-  <br />
-  <img src="https://img.shields.io/badge/AWS%20Cloud-Advanced-blue" />
-  <img src="https://img.shields.io/badge/Docker-Basics-blue" />
-  <img src="https://img.shields.io/badge/Git-Advanced-blue" />
-  <img src="https://img.shields.io/badge/VSCode-Advanced-blue" />
+  <!-- Programming Languages -->
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle PL/SQL" title="Oracle PL/SQL" width="40" height="40" />
+  <!-- Data Analysis Libraries -->
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="numpy" title="numpy" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" title="pandas" width="40" height="40" />
+  <!-- Front-End Development -->
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" alt="React JS" title="React JS" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="40" height="40" />
+  <!-- Back-End Development -->
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" title="Express" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL" width="40" height="40" />
+  <!-- Cloud Technologies -->
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Cloud" title="AWS Cloud" width="40" height="40" />
+  <!-- Development Tools -->
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode" width="40" height="40" />
 </p>
+
+  
 
 
 <p align="center">
