@@ -14,6 +14,11 @@
   <a href="mailto:kirtisalinijma@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/kirti-salini?style=social" />
+  <img src="https://img.shields.io/github/stars/kirti-salini?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=kirti-salini&label=Profile%20Views&color=blue&style=flat" />
+</p>
 <!-- About Me -->
 ## About Me
 
