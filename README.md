@@ -88,7 +88,8 @@
   </a> 
 </p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirti-salini&show_icons=true&locale=en" alt="kirti-salini" />    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirti-salini&" alt="kirti-salini" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirti-salini&show_icons=true&locale=en" alt="kirti-salini" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirti-salini&" alt="kirti-salini" /></p>
 <br>
 
 <p align="center">
