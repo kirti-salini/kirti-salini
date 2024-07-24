@@ -7,7 +7,7 @@
 
 <!-- Contact and Social Media Links -->
 <p align="center">
-  <a href="[https://my-creative-repository.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=react" /></a>
+  <a href="https://my-creative-repository.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=react" /></a>
   <a href="mailto:kirtisalinijma@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
 </p>
 
